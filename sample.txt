@@ -1,0 +1,5 @@
+Hello, this is a sample file created by Vikas.
+This file contains multiple lines.
+Java is reading this file.
+Don't forget to get connected on linkedin.
+https://www.linkedin.com/in/vikas-kumar-2b695a276/
